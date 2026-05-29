@@ -4,6 +4,7 @@ In the Software Design and Architecture Specialization, you will learn how to ap
 Practical examples and opportunities to apply your knowledge will help you develop employable skills and relevant expertise in the software industry.
 
 ## [Course 1 - Object-Oriented Design](./Course1/)
+### [Documents](./Course1/Doc/)
 ### [Module 1 - Object-Oriented Analysis and Design](./Course1/Module1/)
-
+### [Module 2 - Object-Oriented Modeling](./Course1/Module2/)
 
